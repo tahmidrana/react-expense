@@ -1,0 +1,20 @@
+.card-title-d{
+    color: #ffffff;
+    background-color: #34495e;
+    //border-radius: 100px;
+    border-radius: 10px;
+    width: 195px;
+    //height: 170px;
+    margin: 0 auto;
+    //padding: 50px 20px;
+    padding: 20px 20px;
+    margin-bottom: 6px;
+}
+.card-title-d small{
+    font-size: 11px;
+}
+.btn-cs{
+    width: 90px;
+    margin: 6px;
+    text-align: center;
+}
